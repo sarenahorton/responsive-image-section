@@ -23,6 +23,7 @@ body {
 }
 
 section {
+  text-align: center;
   max-width: 51em;
   margin-left: auto;
   margin-right: auto;
@@ -31,6 +32,8 @@ section {
 .img-flex {
   display: block;
   width: 100%;
+  margin-top: 1rem;
+  padding: .5em; .75em;
 }
 
 h1, p {
